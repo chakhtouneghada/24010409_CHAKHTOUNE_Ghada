@@ -1,3 +1,9 @@
+**ghada chakhtoun
+**24010409
+
+
+
+
 # 📘 GRAND GUIDE : ANATOMIE D'UN PROJET DATA SCIENCE
 
 ## *Application au Dataset : Bank Transactions Data*
