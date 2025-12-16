@@ -4,7 +4,7 @@
 
 <img src="https://github.com/user-attachments/assets/9606d462-735a-401a-8d8f-a15fd7cab70f" width="200">
 
-# 📘 GRAND GUIDE : ANATOMIE D'UN PROJET DATA SCIENCE
+# ANATOMIE D'UN PROJET DATA SCIENCE
 
 ## *Application au Dataset : Bank Transactions Data*
 
