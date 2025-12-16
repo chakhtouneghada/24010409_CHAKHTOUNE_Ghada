@@ -10,7 +10,7 @@
 
 ## 1. Le Contexte Métier et la Mission
 
-### 🎯 Le Problème (Business Case)
+### Le Problème (Business Case)
 
 La fraude bancaire est un défi majeur pour les banques, fintechs et
 plateformes de paiement.\
@@ -22,20 +22,20 @@ clients
 client\
 - Appels coûteux au service client
 
-### ⚠️ Enjeu critique : la matrice des coûts d'erreur
+### Enjeu critique : la matrice des coûts d'erreur
 
 -   **Faux Positif (FP)** : Transaction normale bloquée →
     mécontentement\
 -   **Faux Négatif (FN)** : Fraude non détectée → perte financière
     importante
 
-👉 **Le Recall est la métrique la plus importante**
+**Le Recall est la métrique la plus importante**
 
 ------------------------------------------------------------------------
 
 ## 2. Les Données (L'Input)
 
-### 🧩 Colonnes principales
+### Colonnes principales
 
 -   TransactionAmount\
 -   TransactionType\
@@ -51,7 +51,7 @@ client\
 -   TransactionDate\
 -   PreviousTransactionDate
 
-### 🎯 Cible
+### Cible
 
 Pas de colonne "fraud" → apprentissage non supervisé.
 
