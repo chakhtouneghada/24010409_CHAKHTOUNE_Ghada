@@ -120,17 +120,17 @@ df["is_fraud"] = model.predict(X)
 
 ## 4. Analyse Exploratoire (EDA)
 
--   Distribution des montants\
--   Transactions nocturnes\
--   Localisation incohérente\
--   Tentatives de login élevées\
+-   Distribution des montants
+-   Transactions nocturnes
+-   Localisation incohérente    
+-   Tentatives de login élevées
 -   Appareil inhabituel
 
 ------------------------------------------------------------------------
 
 ## 5. Conclusion
 
-Ce dataset est idéal pour :\
-- la détection d'anomalies\
-- le scoring de risque\
+Ce dataset est idéal pour :
+- la détection d'anomalies
+- le scoring de risque
 - un moteur antifraude
