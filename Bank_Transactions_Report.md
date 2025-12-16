@@ -25,7 +25,7 @@ client\
 ### Enjeu critique : la matrice des coûts d'erreur
 
 -   **Faux Positif (FP)** : Transaction normale bloquée →
-    mécontentement\
+    mécontentement
 -   **Faux Négatif (FN)** : Fraude non détectée → perte financière
     importante
 
@@ -37,18 +37,18 @@ client\
 
 ### Colonnes principales
 
--   TransactionAmount\
--   TransactionType\
--   Location\
--   DeviceID\
--   IP Address\
--   Channel\
--   CustomerAge\
--   CustomerOccupation\
--   TransactionDuration\
--   LoginAttempts\
--   AccountBalance\
--   TransactionDate\
+-   TransactionAmount
+-   TransactionType
+-   Location
+-   DeviceID
+-   IP Address
+-   Channel
+-   CustomerAge
+-   CustomerOccupation
+-   TransactionDuration
+-   LoginAttempts
+-   AccountBalance
+-   TransactionDate
 -   PreviousTransactionDate
 
 ### Cible
