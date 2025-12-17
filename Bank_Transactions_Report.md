@@ -134,3 +134,17 @@ Ce dataset est idéal pour :
 - la détection d'anomalies
 - le scoring de risque
 - un moteur antifraude
+
+
+<img width="618" height="479" alt="image" src="https://github.com/user-attachments/assets/3a0cf7db-4119-496d-92a2-925b3e414cbf" />
+
+<img width="773" height="556" alt="image" src="https://github.com/user-attachments/assets/d4218f8b-a2a8-413c-94ef-b1ab75cc7fdc" />
+
+<img width="900" height="556" alt="image" src="https://github.com/user-attachments/assets/cca9c7dc-82c1-48ce-8d6c-2fb70b652d1e" />
+
+<img width="857" height="556" alt="image" src="https://github.com/user-attachments/assets/3d505c7c-9d6d-42dc-94ad-f3ef7b6c4bef" />
+
+
+
+
+
